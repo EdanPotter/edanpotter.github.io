@@ -1,1 +1,6 @@
-DALE
+---
+layout: post
+title: DALE!
+---
+
+DEISHHHHHH!!!
