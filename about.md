@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Computer Engineering student trying to learn a little more of the areas out of reach of the university with some new technologies.
 
 ### More Information
 
